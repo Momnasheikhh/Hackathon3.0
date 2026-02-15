@@ -1,0 +1,11 @@
+streamlit
+opencv-python-headless
+pillow
+easyocr
+google-generativeai
+python-dotenv
+pandas
+numpy
+matplotlib
+streamlit-lottie
+requests
